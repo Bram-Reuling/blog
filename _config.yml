@@ -16,7 +16,7 @@ timezone: Europe/Prague
 
 title: Bram Reuling # the main title
 
-tagline: Junior Programmer @ Bohemia Interactive # it will display as the sub-title
+tagline: Programmer @ Bohemia Interactive # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog about game development and C++
