@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 0
 ---
 
-Hey! I am Bram Reuling. I am 26 years old and currently working as a programmer at Bohemia Interactive on the Arma series.
+Hey! I am Bram Reuling. I am 25 years old and currently working as a programmer at Bohemia Interactive on the Arma series.
 
 As a Programmer at Bohemia Interactive, I work on developing and implementing network and gameplay features for the Arma series. I joined the company in February 2023, to complete my BS degree in Creative Media & Game Technologies at Saxion University of Applied Sciences. For my thesis, I created a networked feature for Arma Reforger, using C++. After I graduated with a 9 out of 10 points, I started to work there full time as a Junior Programmer.
 
